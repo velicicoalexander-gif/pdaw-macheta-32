@@ -1,8 +1,8 @@
 # Spic de Aur — machetă PDAW
 
-- Nume: [Numele și prenumele]
-- Grupa: [Grupa]
-- Numărul variantei: 01
+- Nume: Velicico Alexandru
+- Grupa: IS11Z
+- Numărul variantei: 32
 - GitHub: [link către repository]
 - GitHub Pages: [link după publicare]
 
